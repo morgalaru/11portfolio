@@ -416,6 +416,7 @@ section img {
   background-color: #CB997E;
   border: 1px solid rgba(43, 43, 43, 0.5);
   padding: 1rem;
+  border-radius: 5px;
 }
 #contact .form .message {
   padding: 4rem;
@@ -504,7 +505,7 @@ section img {
 }
 
 #footerWrapper {
-  padding-bottom: 16px;
+  padding-bottom: 30px;
   padding-top: 0;
 }
 #footerWrapper p {
@@ -589,9 +590,6 @@ section img {
   nav ul li {
     flex: none;
     width: 250px;
-  }
-  #edu img {
-    padding: 0 7rem 0 7rem;
   }
   .large-1 {
     flex-basis: 8.3333333333%;

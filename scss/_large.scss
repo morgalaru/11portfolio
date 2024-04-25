@@ -15,8 +15,6 @@ nav ul {
 }
 
 
-#edu img {padding: 0 7rem 0 7rem;}
-
 // create for loop
 @for $i from 1 through 12 {
     $w: calc($i / 12) *100%;

@@ -82,6 +82,7 @@ section {
             background-color: #CB997E;
             border: 1px solid rgba(43,43,43,.5);
             padding: 1rem;
+            border-radius: 5px;
         }
         .message {padding: 4rem;}
     }
@@ -123,7 +124,7 @@ section {
 
 // begin footer
 #footerWrapper {
-    padding-bottom: $gutter;
+    padding-bottom: 30px;
     padding-top: 0;
     p {
         margin: 0;
