@@ -530,7 +530,7 @@ section img {
   #edu img, #goals img, #work img {
     padding: 0 3rem 0 3rem;
   }
-  #contact {
+  section {
     padding-left: 5rem;
     padding-right: 5rem;
   }
